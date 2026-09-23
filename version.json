@@ -1,1 +1,1 @@
-{"web": 13, "native": 8, "name": "1.7", "notes": ["初始版本基线：孔思丹真实课表演示数据、网格课表精确导入、液态玻璃界面"], "bundle": "https://api.github.com/repos/Tim-JoJo/duomi-web/contents/bundle.json", "apk": "https://github.com/Tim-JoJo/duomi-web/releases/latest/download/duomi-latest.apk"}
+{"web": 15, "native": 8, "name": "1.7", "notes": ["初始版本基线：孔思丹真实课表、网格精确导入、液态玻璃界面（v1.7 同源）"], "bundle": "https://api.github.com/repos/Tim-JoJo/duomi-web/contents/bundle.json", "apk": "https://github.com/Tim-JoJo/duomi-web/releases/latest/download/duomi-latest.apk"}
