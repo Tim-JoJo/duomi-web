@@ -1,1 +1,1 @@
-{"web": 17, "native": 10, "name": "1.9", "notes": ["顶栏图标改为白色底色", "切换视图更顺滑（去掉切换卡顿）", "当前上课节时间保留显示", "测试课表更新为孔思丹真实课表"], "bundle": "https://api.github.com/repos/Tim-JoJo/duomi-web/contents/bundle.json", "apk": "https://github.com/Tim-JoJo/duomi-web/releases/latest/download/duomi-latest.apk"}
+{"web": 18, "native": 11, "name": "2.0", "notes": ["顶栏图标改回液态玻璃底、图标白色", "切换视图更顺滑", "当前上课节时间保留"], "bundle": "https://api.github.com/repos/Tim-JoJo/duomi-web/contents/bundle.json", "apk": "https://github.com/Tim-JoJo/duomi-web/releases/latest/download/duomi-latest.apk"}
