@@ -1,1 +1,1 @@
-{"web": 15, "native": 8, "name": "1.7", "notes": ["初始版本基线：孔思丹真实课表、网格精确导入、液态玻璃界面（v1.7 同源）"], "bundle": "https://api.github.com/repos/Tim-JoJo/duomi-web/contents/bundle.json", "apk": "https://github.com/Tim-JoJo/duomi-web/releases/latest/download/duomi-latest.apk"}
+{"web": 16, "native": 9, "name": "1.8", "notes": ["深色模式顶栏配色与底栏统一", "移除周网格顶部切换栏，界面更简洁", "当前上课节保留时间显示"], "bundle": "https://api.github.com/repos/Tim-JoJo/duomi-web/contents/bundle.json", "apk": "https://github.com/Tim-JoJo/duomi-web/releases/latest/download/duomi-latest.apk"}
