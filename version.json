@@ -1,1 +1,1 @@
-{"web": 18, "native": 11, "name": "2.0", "notes": ["顶栏图标改回液态玻璃底、图标白色", "切换视图更顺滑", "当前上课节时间保留"], "bundle": "https://api.github.com/repos/Tim-JoJo/duomi-web/contents/bundle.json", "apk": "https://github.com/Tim-JoJo/duomi-web/releases/latest/download/duomi-latest.apk"}
+{"web": 19, "native": 13, "name": "2.1", "notes": ["全新新拟态（Soft UI）应用图标", "切换视图动画优化"], "bundle": "https://api.github.com/repos/Tim-JoJo/duomi-web/contents/bundle.json", "apk": "https://github.com/Tim-JoJo/duomi-web/releases/latest/download/duomi-latest.apk"}
